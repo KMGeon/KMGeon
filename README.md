@@ -1,4 +1,4 @@
-### Hi Hello, I'm Kim Mu Geon. 👋
+### Hi Hello 👋
 
 <div> 
   
