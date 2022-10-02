@@ -1,4 +1,5 @@
-### Hi Hello 👋
+### Hi 👋
+These are the tech stacks I have experienced. 
 
 <div> 
   
