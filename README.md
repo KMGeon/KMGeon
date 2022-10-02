@@ -1,4 +1,6 @@
 ### Hi~  👋
+## Wave <a id="wave">
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
 These are the tech stacks I have experienced. 
 
 <div> 
