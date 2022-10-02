@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/Figma-007396?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white">
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black">
+   <img src="https://img.shields.io/badge/Notion-F7DF1E?style=for-the-badge&logo=Notion&logoColor=black">
   <br>
 
