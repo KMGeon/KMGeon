@@ -2,7 +2,7 @@
 
 <div> 
   
-<img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=C#&logoColor=white"> 
