@@ -1,7 +1,4 @@
 ### Hi Hello, I'm Kim Mu Geon. 👋
-- 🔭 I am currently studying to become a developer...
-- 🌱 Currently, the most interested technologies are Java,Js ,Oracle ,spring
-- 👯I made it to record what I want to remember
 
 <div> 
   
