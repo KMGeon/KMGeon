@@ -1,7 +1,7 @@
 ## Thank you for visiting. <a id="waving">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mugeon!&fontAlign=80&fontAlignY=40&color=gradient)
 
-These are the tech stacks I have experienced. 
+## These are the tech stacks I have experienced. 
 
 <div> 
   
