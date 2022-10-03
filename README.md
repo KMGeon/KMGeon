@@ -33,7 +33,8 @@ Hello👋, I'm Kim Mu-Geon 😊
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical)
-<div style="height:100px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMGeon&langs_count=8)](https://github.com/Mugeon Kim/github-readme-stats)</div>
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
