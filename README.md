@@ -43,6 +43,6 @@ Hello👋, I'm Kim Mu-Geon 😊
 </td></tr></table> 
 <div>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=khyunjiee)](https://velog.io/@khyunjiee)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khyunjiee)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
