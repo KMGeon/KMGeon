@@ -38,7 +38,7 @@ Hello👋, I'm Kim Mu-Geon 😊
       style="width: 50%; height: 50%"
     />
      [![Velog's GitHub
-    stats](https://velog-readme-stats.vercel.app/api?name=KMGeon)](https://github.com/eungyeole/velog-readme-stats)
+    stats](https://pos04167.tistory.com/26?name=KMGeon)](https://github.com/eungyeole/velog-readme-stats)
 
   
 
