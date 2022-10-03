@@ -4,6 +4,23 @@
 ![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&count_private=true&include_all_commits=false&show_icons=true&theme=swift&hide=stars,issues&title_color=DBAEFF&width=48)
 
 
+## 소개 😎
+
+  - 이름: 김무건
+  - 닉네임: Geon
+  - 이메일: [pos04167@gmail.com](pos04167@gmail.com)
+  - 블로그: [습관 만들기](https://pos04167.tistory.com/)
+
+
+  ## education 🥸
+
+  - **한남대학교** / Multimedia Engineering
+  - **대덕인재개발원** / Web full-stack developer
+
+  ## Project 🎇
+
+  - [**Funding**(모두를 위한 펀딩 🔥)](https://github.com/KMGeon/Funding_Web)
+ 
 
 <div> 
 
