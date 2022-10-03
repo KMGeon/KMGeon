@@ -1,8 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=MuGeon
-Kim&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
-
-
 <p align="center">
 <h1 align="center"> 
 Hello👋, I'm Kim Mu-Geon 😊
