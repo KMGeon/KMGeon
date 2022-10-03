@@ -1,3 +1,7 @@
+  ![Watercolor Background Purple variant](https://user-images.githubusercontent.com/70404643/111873946-2d3e5b00-89d6-11eb-8abe-5bca5d2029b0.png)
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fupswp&count_bg=%23353866&title_bg=%23B4B6BC&icon=twoo.svg&icon_color=%23494DF5&title=Hello+Sangwoo%21&edge_flat=false)]
+
 <p align="center">
 <h1 align="center"> 
 Hello👋, I'm Kim Mu-Geon 😊
