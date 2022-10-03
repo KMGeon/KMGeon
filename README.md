@@ -1,6 +1,6 @@
 ## Thank you for visiting. <a id="waving">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mugeon!&fontAlign=80&fontAlignY=40&color=gradient)
-
+<p align="center">
 ## These are the tech stacks I have experienced. 
 
 <div> 
@@ -25,7 +25,7 @@
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
   <br>
-
+</p>
 <br>
 <br>
 <hr>
