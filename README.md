@@ -37,6 +37,7 @@ Hello👋, I'm Kim Mu-Geon 😊
       align="left"
      style="width: 50%; height: 50%;justify-content: center;"
     />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimasill&show_icons=true&theme=radical)
 
 
   
