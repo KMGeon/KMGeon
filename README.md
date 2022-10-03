@@ -12,7 +12,7 @@
   - 블로그: [습관 만들기](https://pos04167.tistory.com/)
 
 
-  ## ducation 🥸
+  ## Education 🥸
 
   - **한남대학교** / Multimedia Engineering
   - **대덕인재개발원** / Web full-stack developer
