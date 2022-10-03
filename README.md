@@ -21,7 +21,7 @@
 
   - [**Funding**(모두를 위한 펀딩 🔥)](https://github.com/KMGeon/Funding_Web)
  
-<>
+<hr>
 <div> 
 
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
