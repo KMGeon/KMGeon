@@ -34,8 +34,6 @@ Hello👋, I'm Kim Mu-Geon 😊
 <hr>
 
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugeon Kim
-&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/KMGeon/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/KMGeon/github-readme-stats)
 </div>
 
