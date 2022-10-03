@@ -29,10 +29,9 @@ Hello👋, I'm Kim Mu-Geon 😊
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white">
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
  </p>
-  <br>
 </p>
-<br>
-<br>
-<hr>
 
+<hr>
+ <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical)
+  </p>
