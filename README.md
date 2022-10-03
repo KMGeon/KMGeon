@@ -1,6 +1,8 @@
 
 <p align="center">
-## These are the tech stacks I have experienced. 
+<h1> 
+Hello, I'm Kim Moo-Gun
+</h1>
 </p>
 <div> 
   <p align="center">
@@ -21,11 +23,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
           </p>
 </br>
+   <p align="center">
      <img src="https://img.shields.io/badge/Postman-6DB33F?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-007396?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white">
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-
+ </p>
   <br>
 </p>
 <br>
