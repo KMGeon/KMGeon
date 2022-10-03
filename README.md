@@ -1,7 +1,7 @@
 
 <p align="center">
 <h1 align="center"> 
-Hello👋, I'm Kim Moo-Gun 😊
+Hello👋, I'm Kim Mu-Geon 😊
 </h1>
 </p>
 <div> 
