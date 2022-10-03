@@ -1,6 +1,7 @@
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiHee,%20Han&fontSize=70&animation=twinkling)
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fupswp&count_bg=%23353866&title_bg=%23B4B6BC&icon=twoo.svg&icon_color=%23494DF5&title=Hello+Sangwoo%21&edge_flat=false)]
+![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=g2hhh2ee&count_private=true&include_all_commits=false&show_icons=true&theme=swift&hide=stars,issues&title_color=DBAEFF&width=48)
 
 <p align="center">
 <h1 align="center"> 
