@@ -33,11 +33,7 @@ Hello👋, I'm Kim Mu-Geon 😊
 <hr>
 
 <div align="center">
- <img
-      src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&count_private=true&hide_border=true"
-      align="left"
-     style="width: 50%; height: 50%;justify-content: center;"
-    />
+ 
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimasill&show_icons=true&theme=radical)
 </div>
 
