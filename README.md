@@ -32,16 +32,13 @@ Hello👋, I'm Kim Mu-Geon 😊
 
 <hr>
 
-<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&count_private=true&hide_border=true" align="left"   style="width: 100%; height: 100%" />
 
-</td><td valign="top" width="50%" height="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMGeon&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table> 
-<div>
+
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khyunjiee)](https://github.com/eungyeole/velog-readme-stats)
 
