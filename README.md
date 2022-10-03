@@ -41,4 +41,8 @@ Hello👋, I'm Kim Mu-Geon 😊
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMGeon&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table> 
+<div>
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=khyunjiee)](https://velog.io/@khyunjiee)
 
+</div>
