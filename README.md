@@ -33,7 +33,7 @@ Hello👋, I'm Kim Mu-Geon 😊
 <hr>
 
 
- <div style="width: 100%;height: 50%;">
+
     <img
       src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&count_private=true&hide_border=true"
       align="left"
@@ -49,4 +49,4 @@ Hello👋, I'm Kim Mu-Geon 😊
     [![Velog's GitHub
     stats](https://velog-readme-stats.vercel.app/api?name=khyunjiee)](https://github.com/eungyeole/velog-readme-stats)
 </div>
-</div>
+
