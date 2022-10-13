@@ -12,7 +12,7 @@
 
   ## Education 🥸
 
-  - **Graduated in Multimedia Engineering(멀티미디어 공학과)
+  - **Graduated in Multimedia Engineering**(멀티미디어 공학과)
   - **대덕인재개발원** / Web full-stack developer
 
   ## Project 🎇
