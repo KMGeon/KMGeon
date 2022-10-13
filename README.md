@@ -26,7 +26,9 @@
 |Classification|Skills|
 |---|---|
 |Backend, Server| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  ||
-|Language - Favorite| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C#-3670A0?style=for-the-badge&logo=C#&logoColor=ffdd54)|
+|Language - Favorite| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+ ![C#](https://img.shields.io/badge/C#-%3670A0.svg?style=for-the-badge&logo=java&logoColor=ffdd54)
+|
 |Language - Useable| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 |ETC| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<img src="https://img.shields.io/badge/Unity-007396?style=for-the-badge&logo=Unity&logoColor=black"> |
 
