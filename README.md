@@ -24,28 +24,19 @@
   
   ## ⚒ Tech Skill
 ### Back-End
-- `Java`
-- `Spring` 
-- `MyBatis`
+- `Java` `Spring` `MyBatis`
 
 ### Front-End
-- `HTML` `CSS`
-- `JavaScript`
+- `HTML` `CSS` `JavaScript`
 
 ### DBMS
-- `Oracle`
-- `MySql`
-- `MariaDB`
+- `Oracle` `MySql` `MariaDB`
 
 
 ### Tools & Collaborations
 - `IntelliJ IDEA` `STS` `VsCode`
 - `Git`, `GitHub`
-- `Slack`, `Notion`
 - `Unity`
-
- 
-<hr>
 <div> 
 
 
