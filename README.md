@@ -23,7 +23,6 @@
   
   
   ## ⚒ Tech Skill
-## Tech Skills :
 ### Back-End
 - `Java`
 - `Spring` 
