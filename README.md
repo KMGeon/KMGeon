@@ -8,7 +8,6 @@
   - 이름: 김무건
   - 이메일: [pos04167@gmail.com](pos04167@gmail.com)
   - 블로그: [습관 만들기](https://pos04167.tistory.com/)
-  <HR/>
   - **Graduated in Multimedia Engineering**(멀티미디어 공학과)
   - **대덕인재개발원** / Web full-stack developer
   
