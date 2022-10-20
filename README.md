@@ -20,14 +20,13 @@
 
 
 ### Tools & Collaborations
-- `IntelliJ IDEA` `STS` `VsCode`
+- `IntelliJ IDEA` `STS` `VsCode` `Eclipse` 
 - `Git`, `GitHub`
 - `Unity`
 
 
 ### languages ​​I've used
-- `IntelliJ IDEA` `STS` `VsCode`
-- `Git`, `GitHub`
+- `C` `C++` `C#`
 - `Unity`
 <div> 
 
