@@ -25,7 +25,7 @@
 - `Unity`
 
 
-### languages ​​I've used
+### Languages ​​I've used
 - `C` `C++` `C#`
 - `Unity`
 <div> 
