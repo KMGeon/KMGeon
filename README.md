@@ -16,7 +16,7 @@
 - `HTML` `CSS` `JavaScript`
 
 ### DBMS
-- `Oracle` `MySql` `MariaDB`
+- `Oracle` `MySql`
 
 
 ### Tools & Collaborations
@@ -25,8 +25,10 @@
 - `Unity`
 
 
-### Languages ​​I've used
+### Languages ​​I've used:hatching_chick:
 - `C` `C++` `C#`
+-  `MariaDB`
+-  `Fast api`
 - `Unity`
 <div> 
 
