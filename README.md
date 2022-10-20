@@ -1,4 +1,6 @@
 ## 😎 Introduce
+![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&count_private=true&include_all_commits=false&show_icons=true&theme=swift&hide=stars,issues&title_color=DBAEFF&width=50%)
+
 
   - 이름: 김무건
   - 이메일: [pos04167@gmail.com](pos04167@gmail.com)
@@ -27,12 +29,5 @@
 
 ### Languages ​​I've used:hatching_chick:
 - `C` `C++` `C#`
--  `MariaDB`
--  `Fast api`
-- `Unity`
+-  `MariaDB` `Unity`
 <div> 
-
- <div style="width:50%">
-   
-![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&count_private=true&include_all_commits=false&show_icons=true&theme=swift&hide=stars,issues&title_color=DBAEFF&width=50%)
- </div>
