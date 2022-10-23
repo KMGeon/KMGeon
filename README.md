@@ -22,7 +22,7 @@
 
 
 ### Tools & Collaborations
-- `IntelliJ IDEA` `STS` `VsCode` `Eclipse` 
+- `IntelliJ IDEA` `VsCode` 
 - `Git`, `GitHub`
 - `Unity`
 
