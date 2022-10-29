@@ -6,28 +6,4 @@
   - 이메일: [pos04167@gmail.com](pos04167@gmail.com)
   - 블로그: [습관 만들기](https://pos04167.tistory.com/)
   
-## :yum: Education
-  - **Multimedia Engineering**
-  - **대덕인재개발원** / Web full-stack developer
-  
-  ## ⚒ Tech Skill
-### Back-End
-- `Java` `Spring` `MyBatis`
-
-### Front-End
-- `HTML` `CSS` `JavaScript`
-
-### DBMS
-- `Oracle` `MySql`
-
-
-### Tools & Collaborations
-- `IntelliJ IDEA` `VsCode` 
-- `Git`, `GitHub`
-- `Unity`
-
-
-### Languages ​​I've used:hatching_chick:
-- `C` `C++` `C#`
--  `MariaDB` `Unity`
 <div> 
