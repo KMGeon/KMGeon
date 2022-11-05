@@ -3,9 +3,10 @@
 
 <p align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Back-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-  <div><img src="https://user-images.githubusercontent.com/42997924/138549989-b579e243-7e5a-4250-b3dc-5af1c1bd3d2c.png" alt="java" style="vertical-align:top; margin:4px" height="40"></div>
-  <img src="https://user-images.githubusercontent.com/42997924/138549994-fe79474a-ed4f-41bb-83f1-daff47ed01e7.png" alt="spring" style="vertical-align:top; margin:4px" height="40" >
+<p align="center">
 
+  <img src="https://user-images.githubusercontent.com/42997924/138549989-b579e243-7e5a-4250-b3dc-5af1c1bd3d2c.png" alt="java" style="vertical-align:top; margin:4px" height="40">
+  <img src="https://user-images.githubusercontent.com/42997924/138549994-fe79474a-ed4f-41bb-83f1-daff47ed01e7.png" alt="spring" style="vertical-align:top; margin:4px" height="40" >
   <br>
   <img src="https://user-images.githubusercontent.com/42997924/138549992-c05e6ccd-605f-4606-92f4-c04be1e5f7b5.png" alt="mysql" style="vertical-align:top; margin:4px" height="40">
   <br>
