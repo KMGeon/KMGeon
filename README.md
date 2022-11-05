@@ -11,5 +11,5 @@
   <br>
   <img src="https://user-images.githubusercontent.com/42997924/138549987-31c7403c-5313-40be-9bf9-af281e220aa6.png" alt="jetbrains_intellij" style="vertical-align:top; margin:4px" height="40">
   <img src="https://user-images.githubusercontent.com/42997924/138549985-086e5fa7-4dad-4c6a-9398-0da1111454d1.png" alt="github" style="vertical-align:top; margin:4px" height="40">
-
+</p>
 </div>
