@@ -1,3 +1,9 @@
+<div align="center">
+![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&count_private=true&include_all_commits=false&show_icons=true&theme=swift&hide=stars,issues&title_color=DBAEFF&width=50%)
+</div>
+
+
+
 <div align="center"><h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Main Tech<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></div>
   
   
@@ -10,10 +16,4 @@
   <img src="https://user-images.githubusercontent.com/42997924/138549987-31c7403c-5313-40be-9bf9-af281e220aa6.png" alt="jetbrains_intellij" style="vertical-align:top; margin:4px" height="40">
   <img src="https://user-images.githubusercontent.com/42997924/138549985-086e5fa7-4dad-4c6a-9398-0da1111454d1.png" alt="github" style="vertical-align:top; margin:4px" height="40">
 </p>
-  
-<div align="center">
-  
-![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&count_private=true&include_all_commits=false&show_icons=true&theme=swift&hide=stars,issues&title_color=DBAEFF&width=50%)
-
-</div>
-</div>
+  </div>
