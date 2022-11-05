@@ -3,7 +3,7 @@
 
 <p align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Back-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-  <span><img src="https://user-images.githubusercontent.com/42997924/138549989-b579e243-7e5a-4250-b3dc-5af1c1bd3d2c.png" alt="java" style="vertical-align:top; margin:4px" height="40"></span>
+  <div><img src="https://user-images.githubusercontent.com/42997924/138549989-b579e243-7e5a-4250-b3dc-5af1c1bd3d2c.png" alt="java" style="vertical-align:top; margin:4px" height="40"></div>
   <img src="https://user-images.githubusercontent.com/42997924/138549994-fe79474a-ed4f-41bb-83f1-daff47ed01e7.png" alt="spring" style="vertical-align:top; margin:4px" height="40" >
 
   <br>
