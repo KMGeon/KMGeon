@@ -1,8 +1,7 @@
 <div align="center">
-
+   ![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&count_private=true&include_all_commits=false&show_icons=true&theme=swift&hide=stars,issues&title_color=DBAEFF&width=50%)
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMGeon&hide=html,css&langs_count=8&layout=compact&theme=github_dark"/>
     <br/><br/>
-
 
 <div align="center"><h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Main Tech<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></div>
   
