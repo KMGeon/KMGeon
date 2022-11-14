@@ -1,7 +1,7 @@
 <div align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=KMGeon&custom_title=GitHub%20Stats&count_private=true&show_icons=true&theme=github_dark"/>
    
-    <br/><br/>
+
 
 <div align="center"><h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Main Tech<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></div>
   
