@@ -9,4 +9,6 @@
   <img src="https://user-images.githubusercontent.com/42997924/138549985-086e5fa7-4dad-4c6a-9398-0da1111454d1.png" alt="github" style="vertical-align:top; margin:4px" height="40">
 </p>
   </div>
-[KMGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical)
+  <div>
+![KMGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical)
+</div>
