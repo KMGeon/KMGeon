@@ -10,5 +10,5 @@
 </p>
   </div>
   <div>
-(https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical" />
 </div>
