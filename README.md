@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=KMGeon&&style=flat-square" align="right" />
 </div>  
 
 <div align="center">
