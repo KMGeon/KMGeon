@@ -33,7 +33,7 @@ I like to share my experiences!
 <table>
   <tr>
     <td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical"align="center" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical"align="center"  />
     </td>
    </tr>
 </table>  
