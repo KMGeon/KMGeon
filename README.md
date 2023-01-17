@@ -5,7 +5,7 @@
 
 Good day!
 
-I am a Backend developer from South Korea 🇰🇷. I am interested in Spring. <br>
+I am a Backend developer from South Korea 🇰🇷.<br> I am interested in Spring. <br>
 I like to share my experiences! 
 </div>
 
