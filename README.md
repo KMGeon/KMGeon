@@ -12,7 +12,6 @@ I am a Backend developer from South Korea 🇰🇷.<br> I am interested in Sprin
 I like to share my experiences! 
 </div>
 
-<br>
 
 <div align="center">
   
