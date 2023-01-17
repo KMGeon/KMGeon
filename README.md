@@ -12,6 +12,8 @@ I am a Backend developer from South Korea 🇰🇷.<br> I am interested in Sprin
 I like to share my experiences! 
 </div>
 
+<br>
+
 <div align="center">
   
 ### ✨ Teck Stack
@@ -28,6 +30,8 @@ I like to share my experiences!
   <img src="https://user-images.githubusercontent.com/42997924/138549985-086e5fa7-4dad-4c6a-9398-0da1111454d1.png" alt="github" style="vertical-align:top; margin:4px" height="40">
   </p>
   </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical"  />
