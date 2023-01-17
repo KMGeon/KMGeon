@@ -1,6 +1,4 @@
-  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical" />
-</div>
+
 
 ### 😄 Hello, I'm Mugeon Kim!
 
