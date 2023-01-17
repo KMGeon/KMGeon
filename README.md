@@ -30,9 +30,7 @@ I like to share my experiences!
   </div>
 
 <div align="center">
-  
-## Github Stats  
-
+  Github Stats  
   <img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical"  />
 </div>
 
