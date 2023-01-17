@@ -31,7 +31,7 @@ I like to share my experiences!
 
 ## Github Stats  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical"align="center"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=radical"  />
 
 
 
