@@ -6,7 +6,8 @@
   
 ### 😄 Hello, I'm Mugeon Kim!
 
--- 
+---
+  
 <div align="center">
   
 ### ✨ Teck Stack
