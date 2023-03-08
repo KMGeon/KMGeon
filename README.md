@@ -6,7 +6,6 @@
   
 ### 😄 Hello, I'm Mugeon Kim!
 
-Good day!
 -- 
 <div align="center">
   
