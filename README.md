@@ -7,12 +7,7 @@
 ### 😄 Hello, I'm Mugeon Kim!
 
 Good day!
-
-I am a Backend developer<br> I am interested in Spring. <br>
-I like to share my experiences! 
-</div>
-
-
+-- 
 <div align="center">
   
 ### ✨ Teck Stack
