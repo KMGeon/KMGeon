@@ -32,4 +32,10 @@
 </div>
 
 
-<br/>  
+
+<p align="center">
+|GitHub stats|Most Used Languages|
+|:---:|:---:|
+|![KMGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMGeon&show_icons=true&theme=algolia)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMGeon&layout=compact&theme=algolia)|
+  
+</p>
