@@ -1,5 +1,4 @@
-## 👨‍💻 Server Engineer [![Blog](https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=blogger&logoColor=white)](https://kmgeon.github.io/) [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pos04167@gmail.com)
-
+## 👨‍💻 Server Engineer
 
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KMGeon&utm_content=farm">
