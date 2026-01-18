@@ -10,8 +10,11 @@
 
 ## 🔧 Open Source Contribution
 
-| stack | PR | description | status |
-|:------|:---|:------------|:-------|
-| **spring-batch** | [#5189](https://github.com/spring-projects/spring-batch/pull/5189) | StepContribution counters are not thread-safe during parallel chunk processing | pending |
-| **spring-batch** | [#5050](https://github.com/spring-projects/spring-batch/pull/5050) | Fix `JobParameter` constructor validation bug | merged |
-| **spring-batch** | [#5052](https://github.com/spring-projects/spring-batch/pull/5052) | Fix incorrect Assert error message in `JobOperatorTestUtils` | merged |
+| Stack | PR/Issue | Description | Status |
+|:------|:---------|:------------|:------:|
+| **spring-batch** | [#5220](https://github.com/spring-projects/spring-batch/issues/5220) | `MongoStepExecutionDao.countStepExecutions()` ignores `stepName` parameter | Open |
+| **spring-batch** | [#5217](https://github.com/spring-projects/spring-batch/issues/5217) | [Flaky Test] `OptimisticLockingFailureException` in `GracefulShutdownFunctionalTests` | Open |
+| **spring-batch** | [#5189](https://github.com/spring-projects/spring-batch/pull/5189) | `StepContribution` counters are not thread-safe during parallel chunk processing | Open |
+| **spring-batch** | [#5050](https://github.com/spring-projects/spring-batch/pull/5050) | Fix `JobParameter` constructor validation bug | Merged |
+| **spring-batch** | [#5052](https://github.com/spring-projects/spring-batch/pull/5052) | Fix incorrect Assert error message in `JobOperatorTestUtils` | Merged |
+
