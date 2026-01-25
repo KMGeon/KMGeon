@@ -7,7 +7,7 @@
 
 ## Open Source Contribution
 
-**[spring-batch](https://github.com/spring-projects/spring-batch)**
+**spring-batch**
 - [#5188](https://github.com/spring-projects/spring-batch/issues/5188) - 병렬 청크 처리 시 `StepContribution`의 `filterCount`, `processSkipCount`에서 발생하는 race condition 수정
 - Regression Bug 수정
   - [#5220](https://github.com/spring-projects/spring-batch/issues/5220) - `MongoStepExecutionDao.countStepExecutions()`에서 `stepName` 파라미터가 무시되어 `startLimit` 기능이 동작하지 않는 버그 수정
